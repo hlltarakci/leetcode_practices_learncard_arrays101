@@ -3,7 +3,7 @@
 class Solution {
     /*
         n, m: array lengths
-        time: O(max(n, m))
+        time: O(n + m)
         space: O(1)
     */
     public void merge(int[] nums1, int m, int[] nums2, int n) {
