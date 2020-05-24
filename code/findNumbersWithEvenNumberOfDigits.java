@@ -4,7 +4,7 @@ class Solution {
     /*
         n: num on numbers
         k: num of digits on max num
-        time: O(n log k)
+        time: O(n k)
         space: O(1)
     */
     public int findNumbers(int[] nums) {
